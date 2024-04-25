@@ -231,6 +231,8 @@ section {
 
 	nav {
 		gap: 16px;
+		font-size: 1em;
+		margin-left: 5px;
 	}
 
 	.projectItem {
@@ -265,6 +267,12 @@ section {
 		font-size: 1.1em;
 		margin-top: 9px;
 	}
+
+	.outreachContainer {
+		margin: 0px;
+		padding: 60px 14px;
+	}
+
 }
 
 
